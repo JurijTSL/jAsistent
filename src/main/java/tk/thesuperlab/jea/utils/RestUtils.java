@@ -108,7 +108,7 @@ public class RestUtils {
 		return toReturn;
 	}
 
-	public static ArrayList<Subject> getGrades(String bearerToken, String childId) {
+	public static ArrayList<Subject> getAllGrades(String bearerToken, String childId) {
 		ArrayList<Subject> toReturn = new ArrayList<Subject>();
 		OkHttpClient client = new OkHttpClient();
 

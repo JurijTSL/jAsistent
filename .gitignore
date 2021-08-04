@@ -3,3 +3,4 @@
 *.iml
 /src/META-INF/
 /out/
+/src/main/java/tk/thesuperlab/jeatest/Main.java
